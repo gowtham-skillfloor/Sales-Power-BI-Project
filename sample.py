@@ -1,1 +1,0 @@
-# This is a sample file. Not to be included with project.
