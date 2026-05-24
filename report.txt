@@ -1,0 +1,6 @@
+The insights derived from this dashboard are:
+
+
+1. California has the highest number of sales.
+2. New York has is the most profitable region.
+3. Washington has the most discounts.
